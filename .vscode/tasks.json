@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Next.js Development Server",
+			"type": "shell",
+			"command": "cd d:\\projects\\myStaff\\civicSparkAI\\my-app && npm run dev",
+			"group": "build",
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}
